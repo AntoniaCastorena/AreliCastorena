@@ -1,7 +1,7 @@
 {
    "name": "Proyecto PWA",
     "short_name": "PWA",
-    "start_url": "/",
+    "start_url":"./?_source=web_app_manifest",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#000000",
